@@ -14,7 +14,7 @@ https://git-scm.com/downloads
 
 
 
-# Create a virtual environment
+# Create a virtual environment(env or venv just a notation)
 
 ```
 conda create -p env python=3.8 -y
