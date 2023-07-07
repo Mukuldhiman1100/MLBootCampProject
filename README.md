@@ -58,5 +58,5 @@ git push -u origin main
 
 
 ```
-push code for live
+push code for repo
 ```
